@@ -1,3 +1,6 @@
+# Paul Decker
+# 041037730
+
 ## AI Assistance Disclaimer
 
 Microsoft Copilot was used to help develop and improve this project, including some layout adjustments, sizing changes, responsiveness improvements for mobile and desktop, and minor code corrections. All AI‑assisted changes were manually reviewed and refined to ensure the final Contact Book successfully meets the project requirements.

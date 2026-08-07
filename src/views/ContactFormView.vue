@@ -16,12 +16,12 @@
       </div>
 
       <div class="form-row">
-        <label for="email">Email</label>
+        <label for="email">Email Address</label>
         <input id="email" type="email" v-model="form.email" required />
       </div>
 
       <div class="form-row">
-        <label for="phone">Phone</label>
+        <label for="phone">Phone Number</label>
         <input id="phone" v-model="form.phone" />
       </div>
 
